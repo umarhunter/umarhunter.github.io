@@ -23,7 +23,7 @@ I'm currently working at MetLife for second summer, where I work alongside a tal
 
 Currently, I'm working I'm working on one project: What-A-Match. This project provides a demonstration of different stable matching algorithms that are used worldwide today.
 
-I'm proud to have minored in Asian-American studies where I analyzed historical literature from talented Asian-American authors like Arundhati Roy, Maxine Hong Kingston, John Okada, Hisaye Yamamoto and many others. These readings have, and will always, continue to shape my identity.  
+I'm proud to have minored in Asian-American studies where I analyzed historical literature from talented Asian-American authors like Arundhati Roy, Carlos Bulosan, Maxine Hong Kingston, John Okada, Hisaye Yamamoto and many others. These readings have, and will always, continue to shape my identity.  
 
 
 Special thanks to my friends, mentors & professors; their teachings on not just academia, but life, have been invaluable.
