@@ -2,4 +2,7 @@ github_users:
   - umarhunter
 
 github_repos:
+  - umarhunter/what-a-match
+  - umarhunter/os_sim
+  - umarhunter/cppFunctions
   - umarhunter/NYpopulationanalysis
