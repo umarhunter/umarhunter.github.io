@@ -15,11 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, I'm an undergrad studying the science of computers. Specifically focusing on data science and machine learning. My goal is to apply my knowledge to develop efficient and impactful projects.
+I'm an undergrad studying the science of computers. Specifically focusing on data science and machine learning. My goal is to apply my knowledge to develop efficient and impactful projects.
 
-I have proficiency in __Python and C++__, and experience with relational database systems such as PostgreSQL and MySQL, primarily for backend support in my projects.
+I have proficiency in __Python and C++__, and experience with relational database systems such as PostgreSQL and MySQL, although primarily for database integration in my personal projects.
 
-I'm currently working as a data science intern for MetLife, where I work alongside a talented team of data scientists and ML engineers and learn more practical skills. This internship provided me a lot of insight into financial use-cases for data science & ML. 
+I'm currently working as a data science intern for MetLife, where I work alongside a talented team of data scientists and ML engineers who help me learn more practical skills. This internship provided me a lot of insight into financial use-cases for data science & ML. 
 
 In addition to my major, I have minored in Asian-American studies, where I explored historical literature from distinguished Asian-American authors such as Arundhati Roy, Carlos Bulosan, Maxine Hong Kingston, John Okada, Hisaye Yamamoto, and others. These works have significantly influenced my personal and academic growth. I'm also a recipient of the [2023-2024 Asian-American Scholarship for AAS Minors](https://www.hunter.cuny.edu/aasp).
 
