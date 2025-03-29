@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: left
@@ -12,11 +12,11 @@ profile:
     <p>Computer Scientist</p>
     <p>New York City</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -30,7 +30,7 @@ I'm currently pursuing a Bachelor's degree in Computer Science at Hunter College
 
 I have experience working with programming languages such as Python, C++, Java (Spring Boot), along with relational databases (PostgreSQL, MySQL) and NoSQL databases (Neo4j, MongoDB) for integrating and analyzing data in my applications.
 
-Through multiple internships at MetLife, I've developed practical skills in data science, including optimizing semantic search results, ML pipelines & monitoring services, and data visualization. Additionally, my role as an undergraduate research assistant at Hunter College's Distributed AI Research Lab has allowed me to explore innovative uses of reinforcement learning and deep learning algorithms.
+Through data science internships, I've developed practical skills in data science, including optimizing semantic search results, ML pipelines & monitoring services, and data visualization. Additionally, my role as an undergraduate research assistant at Hunter College's Distributed AI Research Lab has allowed me to explore innovative uses of reinforcement learning and deep learning algorithms.
 
 In addition to my major, I pursued a minor in Asian-American Studies, for which I was awarded the 2023-2024 Asian-American Scholarship for AAS Minors.
 
