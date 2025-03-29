@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Computer Scientist</p>
-    <p>New York City</p>
+    <p><a href="https://youtu.be/le1QF3uoQNg?si=_iIxNkI8vSFavEIU">New York City</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
