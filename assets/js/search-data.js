@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Here is a collection of some projects I&#39;ve worked",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -426,9 +426,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-document-parser",
+          title: 'document-parser',
+          description: "a program that parses documents and splits them into smaller chunks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
