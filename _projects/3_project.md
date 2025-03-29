@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: document-parser
+description: a program that parses documents and splits them into smaller chunks
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: python
 ---
 
 Every project has a beautiful feature showcase page.
