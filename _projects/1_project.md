@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Vector Database Analysis (VDBA) Application
+description: A RAG application built with Flask to serve as a web-application
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: python
 related_publications: true
 ---
 
