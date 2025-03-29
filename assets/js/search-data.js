@@ -37,22 +37,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/academia/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-n-a",
         
-          title: "a post with plotly.js",
+          title: "N/A",
         
-        description: "this is what included plotly.js code could look like",
+        description: "N/A",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
           
         },
-      },{id: "post-a-post-with-image-galleries",
+      },{id: "post-n-a",
         
-          title: "a post with image galleries",
+          title: "N/A",
         
-        description: "this is what included image galleries could look like",
+        description: "N/A",
         section: "Posts",
         handler: () => {
           
@@ -70,11 +70,11 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-tabs",
+      },{id: "post-n-a",
         
-          title: "a post with tabs",
+          title: "N/A",
         
-        description: "this is what included tabs in a post could look like",
+        description: "N/A",
         section: "Posts",
         handler: () => {
           
