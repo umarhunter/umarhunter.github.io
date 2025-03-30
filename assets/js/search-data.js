@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/academia/";
           },
-        },{id: "post-a-post-with-formatting-and-links",
+        },{id: "post-machine-learning-definitions",
         
-          title: "a post with formatting and links",
+          title: "Machine Learning Definitions",
         
-        description: "N/A",
+        description: "Notes from various different sources/material related to ML",
         section: "Posts",
         handler: () => {
           
