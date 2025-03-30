@@ -1,7 +1,7 @@
 ---
 layout: page
 title: document-parser
-description: a program that parses documents and splits them into smaller chunks
+description: A Python document parser that'll separate documents into appropriate chunks. Primarily intended for RAG applications. 
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3

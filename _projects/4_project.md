@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: HetioNet
+description: A novice implementation of Hetionet using MongdoDB and Neo4j with a Streamlit application for demo purposes 
 img:
 importance: 3
 category: fun

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What-a-Match
-description: 
+description: This project implements the Gale-Shapley (1962) and Irving's (1985) algorithm's for Stable Matching. 
 img: assets/img/3.jpg
 importance: 2
 category: python
